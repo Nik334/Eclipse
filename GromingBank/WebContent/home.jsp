@@ -10,7 +10,7 @@
 <jsp:include page="header.jsp"></jsp:include>
 	<div id="page-wrapper">
 		<div class="container-fluid">
-			<h1>Welcome</h1>
+			<h1>Welcome to Gromming Bank</h1>
 		</div>
 	</div>
 <jsp:include page="footer.jsp"></jsp:include>
